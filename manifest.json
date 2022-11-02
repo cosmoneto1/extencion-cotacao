@@ -1,0 +1,16 @@
+{
+  "name": "Cotações de moedas",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "author": "Cosmo Neto",
+  "action": {
+    "default_title": "Click Cotações de moedas",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "money.png",
+    "32": "money.png",
+    "48": "money.png",
+    "128": "money.png"
+  }
+}
